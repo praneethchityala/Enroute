@@ -1,5 +1,5 @@
 # Enroute
-## Software Engineering (Spring 22) Project: Delivery Management System - Full Stack Development
+## Delivery Management System - Full Stack Development MERN
 
 A one-stop shop application to cater door-to-door custom delivery needs and recommend a best courier service provider for chosen source, destination and package type.
 
